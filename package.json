@@ -1,0 +1,25 @@
+{
+  "name": "javascript-avancado",
+  "version": "1.0.0",
+  "description": "Scripts do Curso Javascript Avancado",
+  "main": "script11.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidevandro/javascript-avancado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidevandro/javascript-avancado/issues"
+  },
+  "homepage": "https://github.com/davidevandro/javascript-avancado#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
+    "sinon": "^9.1.0"
+  }
+}
